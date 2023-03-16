@@ -5,7 +5,7 @@ const siteConfig = {
   author: {
     name: "Divine Hycenth",
     github: "https://github.com/dnature",
-    twitter: "https://twitter.com/built_divine",
+    // twitter: "https://twitter.com/built_divine",
     linkedin: "https://linkedin.com/in/dnature",
     email: "contact@divinehycenth.com",
     website: "https://divinehycenth.com",
@@ -25,8 +25,8 @@ const siteConfig = {
       "Hi 👋, I’m a full-stack engineer that wears many hats 🎩🪄. I build blockchain apps (Smart Contracts, Solidity, Dapps, Web3), and Web apps using React, Typescript, & Nodejs, and I have a great eye for design due to my background in graphic design. I've been working professionally in various company sizes for 5+ years and I'm currently located in the Netherlands",
     siteUrl: "https://blog.builtdivine.com",
     twitter: {
-      handle: "@built_divine",
-      site: "@built_divine",
+      handle: "",
+      site: "",
       cardType: "summary_large_image",
     },
     openGraph: {

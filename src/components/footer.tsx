@@ -7,7 +7,6 @@ import {
   IoLogoDribbble,
   IoLogoGithub,
   IoLogoLinkedin,
-  IoLogoTwitter,
 } from "react-icons/io5";
 import { MdEmail } from "react-icons/md";
 
@@ -17,11 +16,11 @@ export const links = [
     label: "Github",
     href: "https://github.com/dnature",
   },
-  {
-    icon: IoLogoTwitter,
-    label: "Twitter",
-    href: "https://twitter.com/built_divine",
-  },
+  // {
+  //   icon: IoLogoTwitter,
+  //   label: "Twitter",
+  //   href: "https://twitter.com/built_divine",
+  // },
   {
     icon: IoLogoDribbble,
     label: "Dribbble",
@@ -73,7 +72,7 @@ const Footer = () => {
               <Link
                 target="_blank"
                 className="hover:underline"
-                href={"https://twitter.com/built_divine"}
+                href={"https://linkedin.com/in/dnature"}
               >
                 Divine Hycenth
               </Link>
