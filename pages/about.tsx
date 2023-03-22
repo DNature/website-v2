@@ -30,7 +30,7 @@ const About = ({}) => {
           <h1 className="font-bold">Hello there 👋, I’m Divine Hycenth.</h1>
           <p>
             <Link
-              href="/Divine-cv-blockchain.pdf"
+              href="/divine-cv-blockchain.pdf"
               rel="noopener noreferrer"
               target="_blank"
             >
